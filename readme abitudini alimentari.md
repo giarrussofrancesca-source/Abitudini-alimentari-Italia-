@@ -38,3 +38,11 @@ Non è stato possibile risalire alle cause delle differenze regionali osservate.
 I dati sono aggregati a livello nazionale, regionale e di macroaree e non permettono di osservare le abitudini alimentari dei singoli individui.
 
 ## Dashboard
+
+<img width="1222" height="506" alt="Grafico1" src="https://github.com/user-attachments/assets/7d96f124-69c1-4e05-a8ce-6ad8ef7adec1" />
+
+<img width="1223" height="509" alt="Grafico2" src="https://github.com/user-attachments/assets/76d14649-46f6-48ec-a271-899ba8f69ee8" />
+
+<img width="1223" height="507" alt="Grafico3" src="https://github.com/user-attachments/assets/ffccc3ac-7034-4801-9f9b-4917729f1b77" />
+
+<img width="1222" height="508" alt="Grafico4" src="https://github.com/user-attachments/assets/212d5ec1-9f48-4876-8e31-cec6d4cb6332" />
